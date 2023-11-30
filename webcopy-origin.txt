@@ -1,0 +1,880 @@
+Uri: https://assets.clickfunnels.com/images/grey-lock.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\grey-lock.png
+Content Type: image/png
+
+Uri: https://assets.clickfunnels.com/images/seal1.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\seal1.png
+Content Type: image/png
+
+Uri: https://clickfunnels-assets.clickfunnels.com/assets/editor/cf-editor-dropdown-4182a839922e40b7da576cba5169cd7ec5532005c7ebdb98a488a9b0cace665e.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\assets\editor\cf-editor-dropdown-4182a839922e40b7da576cba5169cd7ec5532005c7ebdb98a488a9b0cace665e.svg
+Content Type: image/svg+xml
+
+Uri: https://d2saw6je89goi1.cloudfront.net/uploads/digital_asset/file/1070123/fav.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\uploads\digital_asset\file\1070123\fav.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,700|Droid+Sans:400,700|Roboto:400,700|Lato:400,700|PT+Sans:400,700|Source+Sans+Pro:400,600,700|Noto+Sans:400,700|PT+Sans:400,700|Ubuntu:400,700|Bitter:400,700|PT+Serif:400,700|Rokkitt:400,700|Droid+Serif:400,700|Raleway:400,700|Inconsolata:400,700
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans|sans-serif|Open+Sans||
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v33\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v33\raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bitter/v7/evC1haE-MsorTl_A7_uSGZBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v7\evC1haE-MsorTl_A7_uSGZBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bitter/v7/HEpP8tJXlWaYHimsnXgfCOvvDin1pK8aKteLpeZ5c0A.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v7\HEpP8tJXlWaYHimsnXgfCOvvDin1pK8aKteLpeZ5c0A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bitter/v7/JGVZEP92dXgoQBG1CnQcfIX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v7\JGVZEP92dXgoQBG1CnQcfIX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/bitter/v7/VyzH0eNzfhxMjuJ3chtK7H-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\bitter\v7\VyzH0eNzfhxMjuJ3chtK7H-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidsans\v18\SlGVmQWMvZQIdix7AFxXkHNSaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidsans/v18/SlGWmQWMvZQIdix7AFxXmMh3eDs1Yg.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidsans\v18\SlGWmQWMvZQIdix7AFxXmMh3eDs1Yg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidsans/v6/EFpQQyG9GqCrobXxL-KRMWaVI6zN22yiurzcBKxPjFE.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidsans\v6\EFpQQyG9GqCrobXxL-KRMWaVI6zN22yiurzcBKxPjFE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/droidsans/v6/s-BiyweUPV0v-yRb-cjciAzyDMXhdD8sAj6OAJTFsBI.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidsans\v6\s-BiyweUPV0v-yRb-cjciAzyDMXhdD8sAj6OAJTFsBI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidserif\v19\tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidserif\v19\tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaIgp9Q8gbYrhqGlRav_IXfk.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidserif\v6\0AKsP294HTD-nvJgucYTaIgp9Q8gbYrhqGlRav_IXfk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwf79_ZuUxCigM2DespTnFaw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\droidserif\v6\QQt14e8dY39u-eYBZmppwf79_ZuUxCigM2DespTnFaw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v12/AIed271kqQlcIRSOnQH0yf79_ZuUxCigM2DespTnFaw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v12\AIed271kqQlcIRSOnQH0yf79_ZuUxCigM2DespTnFaw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v12/AIed271kqQlcIRSOnQH0yYgd9OEPUCN3AdYW0e8tat4.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v12\AIed271kqQlcIRSOnQH0yYgd9OEPUCN3AdYW0e8tat4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v12/BjAYBlHtW3CJxDcjzrnZCIgp9Q8gbYrhqGlRav_IXfk.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v12\BjAYBlHtW3CJxDcjzrnZCIgp9Q8gbYrhqGlRav_IXfk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v12/BjAYBlHtW3CJxDcjzrnZCKE8kM4xWR1_1bYURRojRGc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v12\BjAYBlHtW3CJxDcjzrnZCKE8kM4xWR1_1bYURRojRGc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v32/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kg.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v32\QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7WR32kg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inconsolata/v32/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\inconsolata\v32\QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WR32kg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v11/8qcEw_nrk_5HEcCpYdJu8BTbgVql8nDJpwnrE27mub0.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v11\8qcEw_nrk_5HEcCpYdJu8BTbgVql8nDJpwnrE27mub0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v11/MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v11\MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v11/MgNNr5y1C_tIEuLEmicLmwLUuEpTyoUstqEm5AMlJo4.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v11\MgNNr5y1C_tIEuLEmicLmwLUuEpTyoUstqEm5AMlJo4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v11/rZPI2gHXi8zxUjnybc2ZQFKPGs1ZzpMvnHX-7fPOuAc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v11\rZPI2gHXi8zxUjnybc2ZQFKPGs1ZzpMvnHX-7fPOuAc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v34/o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v34\o-0IIpQlx3QUlC5A4PNr5TRF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v34/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v34\o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/5pCv5Yz4eMu9gmvX8nNhfYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\5pCv5Yz4eMu9gmvX8nNhfYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/C7bP6N8yXZ-PGLzbFLtQKYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\C7bP6N8yXZ-PGLzbFLtQKYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/erE3KsIWUumgD1j_Ca-V-4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\erE3KsIWUumgD1j_Ca-V-4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/gEkd0pn-sMtQ_P4HUpi6WIX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\gEkd0pn-sMtQ_P4HUpi6WIX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/iLJc6PpCnnbQjYc1Jq4v04X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\iLJc6PpCnnbQjYc1Jq4v04X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/iPF-u8L1qkTPHaKjvXERn4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\iPF-u8L1qkTPHaKjvXERn4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nJBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\LeFlHvsZjXu2c3ZRgBq9nJBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/mTzVK0-EJOCaJiOPeaz-h4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\mTzVK0-EJOCaJiOPeaz-h4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ14joYw3YTyktCCer_ilOlhE.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ14joYw3YTyktCCer_ilOlhE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ156vnaPZw6nYDxM4SVEMFKg.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ156vnaPZw6nYDxM4SVEMFKg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1w7aC6SjiAOpAWOKfJDfVRY.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1w7aC6SjiAOpAWOKfJDfVRY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1xampu5_7CjHW5spxoeN3Vs.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1xampu5_7CjHW5spxoeN3Vs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1xdwxCXfZpKo5kWAx_74bHs.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1xdwxCXfZpKo5kWAx_74bHs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1yGUML8f7tzeB6gGvgki0bE.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1yGUML8f7tzeB6gGvgki0bE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1_grLsWo7Jk1KvZser0olKY.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1_grLsWo7Jk1KvZser0olKY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/notosans/v6/PIbvSEyHEdL91QLOQRnZ1_y1_HTwRwgtl1cPga3Fy3Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\notosans\v6\PIbvSEyHEdL91QLOQRnZ1_y1_HTwRwgtl1cPga3Fy3Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/59ZRklaO5bWGqF5A9baEEYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\59ZRklaO5bWGqF5A9baEEYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzA7aC6SjiAOpAWOKfJDfVRY.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzA7aC6SjiAOpAWOKfJDfVRY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBdwxCXfZpKo5kWAx_74bHs.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzBdwxCXfZpKo5kWAx_74bHs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzIjoYw3YTyktCCer_ilOlhE.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzIjoYw3YTyktCCer_ilOlhE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzJ6vnaPZw6nYDxM4SVEMFKg.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzJ6vnaPZw6nYDxM4SVEMFKg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzPgrLsWo7Jk1KvZser0olKY.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzPgrLsWo7Jk1KvZser0olKY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzPy1_HTwRwgtl1cPga3Fy3Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\k3k702ZOKiLJc3WVjuplzPy1_HTwRwgtl1cPga3Fy3Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/K88pR3goAWT7BTt32Z01m4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\K88pR3goAWT7BTt32Z01m4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/LWCjsQkB6EMdfHrEVqA1KYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\LWCjsQkB6EMdfHrEVqA1KYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/RjgO7rYTmqiVp7vzi-Q5UYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\RjgO7rYTmqiVp7vzi-Q5UYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\u-WUoqrET9fUeobQW7jkRYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v13/xozscpT2726on7jbcb_pAoX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v13\xozscpT2726on7jbcb_pAoX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v10/bH7276GfdCjMjApa_dkG6ZBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v10\bH7276GfdCjMjApa_dkG6ZBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v10/dI-qzxlKVQA6TUC5RKSb34X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v10\dI-qzxlKVQA6TUC5RKSb34X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v10/Qw6_9HvXRQGg5mMbFR3Phn-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v10\Qw6_9HvXRQGg5mMbFR3Phn-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v10/_P8jt3Y65hJ9c4AzRE0V1OvvDin1pK8aKteLpeZ5c0A.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v10\_P8jt3Y65hJ9c4AzRE0V1OvvDin1pK8aKteLpeZ5c0A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizaRExUiTo99u79D0KEwA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v17\jizaRExUiTo99u79D0KEwA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v17/jizfRExUiTo99u79B_mh0O6tKA.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v17\jizfRExUiTo99u79B_mh0O6tKA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNAzyDMXhdD8sAj6OAJTFsBI.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\0XxGQsSc1g4rdRdjJKZrNAzyDMXhdD8sAj6OAJTFsBI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/BJVWev7_auVaQ__OU8Qih1KPGs1ZzpMvnHX-7fPOuAc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\BJVWev7_auVaQ__OU8Qih1KPGs1ZzpMvnHX-7fPOuAc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/CWlc_g68BGYDSGdpJvpktgLUuEpTyoUstqEm5AMlJo4.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\CWlc_g68BGYDSGdpJvpktgLUuEpTyoUstqEm5AMlJo4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/fhNmDCnjccoUYyU4ZASaLVKPGs1ZzpMvnHX-7fPOuAc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\fhNmDCnjccoUYyU4ZASaLVKPGs1ZzpMvnHX-7fPOuAc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/g46X4VH_KHOWAAa-HpnGPgsYbbCjybiHxArTLjt7FRU.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\g46X4VH_KHOWAAa-HpnGPgsYbbCjybiHxArTLjt7FRU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/hpORcvLZtemlH8gI-1S-7gsYbbCjybiHxArTLjt7FRU.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\hpORcvLZtemlH8gI-1S-7gsYbbCjybiHxArTLjt7FRU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/kTYfCWJhlldPf5LnG4ZnHAsYbbCjybiHxArTLjt7FRU.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\kTYfCWJhlldPf5LnG4ZnHAsYbbCjybiHxArTLjt7FRU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptsans/v8/oysROHFTu1eTZ74Hcf8V-VKPGs1ZzpMvnHX-7fPOuAc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptsans\v8\oysROHFTu1eTZ74Hcf8V-VKPGs1ZzpMvnHX-7fPOuAc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v18\EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v18/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v18\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/5hX15RUpPERmeybVlLQEWBkAz4rYn47Zy2rvigWQf6w.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\5hX15RUpPERmeybVlLQEWBkAz4rYn47Zy2rvigWQf6w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/CPRt--GVMETgA6YEaoGitxkAz4rYn47Zy2rvigWQf6w.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\CPRt--GVMETgA6YEaoGitxkAz4rYn47Zy2rvigWQf6w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/fU0HAfLiPHGlZhZpY6M7dBkAz4rYn47Zy2rvigWQf6w.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\fU0HAfLiPHGlZhZpY6M7dBkAz4rYn47Zy2rvigWQf6w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/I-OtoJZa3TeyH6D9oli3iXYhjbSpvc47ee6xR_80Hnw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\I-OtoJZa3TeyH6D9oli3iXYhjbSpvc47ee6xR_80Hnw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/QABk9IxT-LFTJ_dQzv7xpF4sYYdJg5dU2qzJEVSuta0.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\QABk9IxT-LFTJ_dQzv7xpF4sYYdJg5dU2qzJEVSuta0.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/QABk9IxT-LFTJ_dQzv7xpIgp9Q8gbYrhqGlRav_IXfk.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\QABk9IxT-LFTJ_dQzv7xpIgp9Q8gbYrhqGlRav_IXfk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/QABk9IxT-LFTJ_dQzv7xpKE8kM4xWR1_1bYURRojRGc.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\QABk9IxT-LFTJ_dQzv7xpKE8kM4xWR1_1bYURRojRGc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ptserif/v8/QABk9IxT-LFTJ_dQzv7xpPZraR2Tg8w2lzm7kLNL0-w.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ptserif\v8\QABk9IxT-LFTJ_dQzv7xpPZraR2Tg8w2lzm7kLNL0-w.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v29/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\raleway\v29\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v9/JbtMzqLaYbbbCL9X6EvaIwzyDMXhdD8sAj6OAJTFsBI.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\raleway\v9\JbtMzqLaYbbbCL9X6EvaIwzyDMXhdD8sAj6OAJTFsBI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/raleway/v9/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\raleway\v9\QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/77FXFjRbGzN4aCrSFhlh3oX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\77FXFjRbGzN4aCrSFhlh3oX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/97uahxiqZRoncBaCEI3aW4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\97uahxiqZRoncBaCEI3aW4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/isZ-wbCXNKAbnjo6_TwHToX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\isZ-wbCXNKAbnjo6_TwHToX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/jSN2CGVDbcVyCnfJfjSdfIX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\jSN2CGVDbcVyCnfJfjSdfIX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/Ks_cVxiCiwUWVsFWFA3Bjn-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\Ks_cVxiCiwUWVsFWFA3Bjn-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/NJ4vxlgWwWbEsv18dAhqnn-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\NJ4vxlgWwWbEsv18dAhqnn-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/PwZc-YbIL414wB9rB1IAPYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\PwZc-YbIL414wB9rB1IAPYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/sTdaA6j0Psb920Vjv-mrzH-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\sTdaA6j0Psb920Vjv-mrzH-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/tnj4SB6DNbdaQnsM8CFqBX-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\tnj4SB6DNbdaQnsM8CFqBX-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/UX6i4JxQDm3fVTc1CPuwqoX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\UX6i4JxQDm3fVTc1CPuwqoX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/uYECMKoHcO9x1wdmbyHIm3-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\uYECMKoHcO9x1wdmbyHIm3-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v15/_VYFx-s824kXq_Ul2BHqYH-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v15\_VYFx-s824kXq_Ul2BHqYH-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v36/qFdb35qfgYFjGy5hukqqhw5XeRgdi1oVcKDMGbo.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\rokkitt\v36\qFdb35qfgYFjGy5hukqqhw5XeRgdi1oVcKDMGbo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v36/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\rokkitt\v36\qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DMGbo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v9/Mef17w3J4CtS0lw4Wa_8rwzyDMXhdD8sAj6OAJTFsBI.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\rokkitt\v9\Mef17w3J4CtS0lw4Wa_8rwzyDMXhdD8sAj6OAJTFsBI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/rokkitt/v9/o9LMKUV9IIiOIghfS6ZGbALUuEpTyoUstqEm5AMlJo4.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\rokkitt\v9\o9LMKUV9IIiOIghfS6ZGbALUuEpTyoUstqEm5AMlJo4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlCxe5Tewm2_XWfbGchcXw4g.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\ODelI1aHBYDBqgeIAH2zlCxe5Tewm2_XWfbGchcXw4g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlIa1YDtoarzwSXxTHggEXMw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\ODelI1aHBYDBqgeIAH2zlIa1YDtoarzwSXxTHggEXMw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/ODelI1aHBYDBqgeIAH2zlJbPFduIYtoLzwST68uhz_Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\ODelI1aHBYDBqgeIAH2zlJbPFduIYtoLzwST68uhz_Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGJkF8H8ye47wsfpWywda8og.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\toadOcfmlt9b38dHJxOBGJkF8H8ye47wsfpWywda8og.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGMms7UHsIbjUxEJqIwog-i_3rGVtsTkPsbDajuO5ueQw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\toadOcfmlt9b38dHJxOBGMms7UHsIbjUxEJqIwog-i_3rGVtsTkPsbDajuO5ueQw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v9/toadOcfmlt9b38dHJxOBGO4s1Ux4PuImWPk5fSr6HPL3rGVtsTkPsbDajuO5ueQw.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\sourcesanspro\v9\toadOcfmlt9b38dHJxOBGO4s1Ux4PuImWPk5fSr6HPL3rGVtsTkPsbDajuO5ueQw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/0ihfXUL2emPh0ROJezvraJBw1xU1rKptJj_0jans920.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\0ihfXUL2emPh0ROJezvraJBw1xU1rKptJj_0jans920.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/2vaWVxeAxHVkFcnCBCQCyYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\2vaWVxeAxHVkFcnCBCQCyYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/4z2U46_RRLOfkoHsWJG3v4X0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\4z2U46_RRLOfkoHsWJG3v4X0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/BgwOR-U84B6EluzUITbpkH-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\BgwOR-U84B6EluzUITbpkH-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/BxfrwvhZBmVnDwajjdTQeH-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\BxfrwvhZBmVnDwajjdTQeH-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/M-Ii49WH_TYYnOjQyLgTMIX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\M-Ii49WH_TYYnOjQyLgTMIX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/nsLtvfQoT-rVwGTHHnkeJoX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\nsLtvfQoT-rVwGTHHnkeJoX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/oxrPYIm05JrY_0rFIEQ_oYX0hVgzZQUfRDuZrPvH3D8.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\oxrPYIm05JrY_0rFIEQ_oYX0hVgzZQUfRDuZrPvH3D8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/rOHfGaogav5XpJHYhB_YZ3-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\rOHfGaogav5XpJHYhB_YZ3-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/Zcmru5bcP_p_TwCNg-F3DH-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\Zcmru5bcP_p_TwCNg-F3DH-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/zvCUQcxqeoKhyOlbifSAaevvDin1pK8aKteLpeZ5c0A.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\zvCUQcxqeoKhyOlbifSAaevvDin1pK8aKteLpeZ5c0A.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v8/zwDIfh8KEInP4WYoM7h0b3-_kf6ByYO6CLYdB4HQE-Y.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\s\ubuntu\v8\zwDIfh8KEInP4WYoM7h0b3-_kf6ByYO6CLYdB4HQE-Y.woff2
+Content Type: font/woff2
+
+Uri: https://images.clickfunnels.com/11/a994c0076011e68a7a9d34efe8eba6/div-slanted.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\11\a994c0076011e68a7a9d34efe8eba6\div-slanted.png
+Content Type: image/png
+
+Uri: https://images.clickfunnels.com/c1/418410076011e6836801ddd543c5b9/div-jagged.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\c1\418410076011e6836801ddd543c5b9\div-jagged.png
+Content Type: image/png
+
+Uri: https://images.clickfunnels.com/images/mejs-controls.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/css/all.css
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/css/v4-shims.css
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.eot
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.woff
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.eot
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.woff
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.eot
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.woff
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.9.0/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\releases\v5.9.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.facebook.com/tr?id=1128103274542259&ev=PageView&noscript=1
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\tr-3
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=443313307874498&ev=PageView&noscript=1
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\tr-4
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=634441391805242&ev=PageView&noscript=1
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=688117705825270&ev=PageView&noscript=1
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\tr
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=8289708514433814&ev=PageView&noscript=1
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\tr-2
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-10981124517
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.nitishkunwar.com/assets/lander.css
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\assets\lander.css
+Content Type: text/css
+
+Uri: https://www.nitishkunwar.com/assets/lander.js
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\assets\lander.js
+Content Type: application/x-javascript
+
+Uri: https://www.nitishkunwar.com/assets/pushcrew.js
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\assets\pushcrew.js
+Content Type: application/x-javascript
+
+Uri: https://www.nitishkunwar.com/assets/userevents/application.js
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\assets\userevents\application.js
+Content Type: application/x-javascript
+
+Uri: https://www.nitishkunwar.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.nitishkunwar.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.nitishkunwar.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nitishkunwar.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.nitishkunwar.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://www.nitishkunwar.com/fonts/vjs.eot
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\vjs.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.nitishkunwar.com/fonts/vjs.eot?
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\vjs-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.nitishkunwar.com/fonts/vjs.ttf
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\vjs.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.nitishkunwar.com/fonts/vjs.woff
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\fonts\vjs.woff
+Content Type: application/font-woff
+
+Uri: https://www.nitishkunwar.com/hosted/images/12/030e346ce740b594a7466670382345/five-stars-f0b166709cc63074837d5f77bb87071d-pr50cofpg0c0eseav3vx5by7gmqnukyffew7t2yeic.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\12\030e346ce740b594a7466670382345\five-stars-f0b166709cc63074837d5f77bb87071d-pr50cofpg0c0eseav3vx5by7gmqnukyffew7t2yeic.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/3e/32c2ac38d943328d208bd02da7604d/ULTIMATE-EDIT-LOGO-GIF.gif
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\3e\32c2ac38d943328d208bd02da7604d\ULTIMATE-EDIT-LOGO-GIF.gif
+Content Type: image/gif
+
+Uri: https://www.nitishkunwar.com/hosted/images/54/06eb1ef0764426b89bbbffc4d4fcb1/T1.jpg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\54\06eb1ef0764426b89bbbffc4d4fcb1\T1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.nitishkunwar.com/hosted/images/84/7c09ab3d8f4a6fb43dd2603641f80b/rPUEC-Headline.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\84\7c09ab3d8f4a6fb43dd2603641f80b\rPUEC-Headline.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/84/b136dc60504dab9b737e56f67a16e7/2-cta-nonu.gif
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\84\b136dc60504dab9b737e56f67a16e7\2-cta-nonu.gif
+Content Type: image/gif
+
+Uri: https://www.nitishkunwar.com/hosted/images/90/a777d405ac4fe490908e1f131419f5/nnmUEC-Headline.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\90\a777d405ac4fe490908e1f131419f5\nnmUEC-Headline.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/b1/d4ea468b7c468f985c51a1ce5f5f81/T2.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\b1\d4ea468b7c468f985c51a1ce5f5f81\T2.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/b8/363d310f4642eda814f51774164b23/T3.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\b8\363d310f4642eda814f51774164b23\T3.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/c2/d3cb41c55744c8bdcac22c349b0b59/T5.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\c2\d3cb41c55744c8bdcac22c349b0b59\T5.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/hosted/images/c3/40fcecab7d4ba9bc2b60e462aac7cd/T4.jpg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\c3\40fcecab7d4ba9bc2b60e462aac7cd\T4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.nitishkunwar.com/hosted/images/da/953a651fc643ca8054d404ad12c5ef/Bacground-m.jpg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\hosted\images\da\953a651fc643ca8054d404ad12c5ef\Bacground-m.jpg
+Content Type: image/jpeg
+
+Uri: https://www.nitishkunwar.com/images/1441848773_Map-Marker-Flag--Right-Chartreuse.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\1441848773_Map-Marker-Flag--Right-Chartreuse.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/1441849090_Map-Marker-Flag--Right-Azure.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\1441849090_Map-Marker-Flag--Right-Azure.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/address.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\address.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/address2.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\address2.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/address3.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\address3.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/email.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\email.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/email2.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\email2.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/email3.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\email3.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/green_check_big.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\green_check_big.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/green_check_small.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\green_check_small.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/green_dot_big.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\green_dot_big.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/green_dot_small.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\green_dot_small.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/icon-calendar-t1.svg
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\icon-calendar-t1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.nitishkunwar.com/images/img_bullet.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\img_bullet.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/name.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\name.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/name2.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\name2.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/name3.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\name3.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/phone.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\phone.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/phone2.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\phone2.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/phone3.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\phone3.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/red_cross_big.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\red_cross_big.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/red_cross_small.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\red_cross_small.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/red_dot_big.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\red_dot_big.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/red_dot_small.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\red_dot_small.png
+Content Type: image/png
+
+Uri: https://www.nitishkunwar.com/images/videoplaceholderbg.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\videoplaceholderbg.png
+Content Type: image/png
+
+Uri: https://www.ultimateedit.in/images/closemodal.png
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\images\closemodal.png
+Content Type: image/png
+
+Uri: https://www.ultimateedit.in/opt
+File Name: C:\Users\Uma Shankar\Desktop\www.ultimateedit.in\opt.html
+Content Type: text/html
+
